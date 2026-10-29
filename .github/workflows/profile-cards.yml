@@ -36,4 +36,3 @@ jobs:
           output-dir: assets
           themes: light,dark
           commit: true
-
