@@ -1,4 +1,3 @@
-<!-- Profile README: this file belongs in the public repository https://github.com/smaharx/smaharx -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:0891B2&height=210&section=header&text=Shahzaib%20Mahar&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=LLM%20APPLICATIONS%20%C2%B7%20RAG%20%C2%B7%20AGENTIC%20AI%20%C2%B7%20AUTOMATION&descAlignY=59&descSize=16" width="100%" alt="Shahzaib Mahar — AI/ML Engineer" />
@@ -8,7 +7,6 @@
     <a href="https://www.linkedin.com/in/smaharx/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/github/followers/smaharx?label=Followers&style=flat-square&color=0891B2" alt="GitHub followers" />
     <img src="https://img.shields.io/badge/Focus-Applied%20AI%20%26%20ML-7C3AED?style=flat-square" alt="Applied AI and machine learning focus" />
   </p>
 </div>
