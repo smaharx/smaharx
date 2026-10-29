@@ -171,11 +171,17 @@
 ## GitHub Activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=smaharx&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=0891B2&text_color=8B949E" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smaharx&layout=compact&hide_border=true&theme=transparent&title_color=7C3AED&text_color=8B949E&langs_count=8" alt="Most-used languages" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smaharx&bg_color=0D1117&color=8B949E&line=7C3AED&point=0891B2&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="GitHub contribution activity graph" />
+
+  <img src="https://raw.githubusercontent.com/smaharx/smaharx/main/assets/overview.dark.svg" alt="GitHub statistics overview" width="49%" />
+  <img src="https://raw.githubusercontent.com/smaharx/smaharx/main/assets/languages.dark.svg" alt="Most-used programming languages" width="49%" />
+
+  <br /><br />
+
+  <img src="https://raw.githubusercontent.com/smaharx/smaharx/main/assets/contributions.dark.svg" alt="GitHub contribution activity" width="95%" />
+
 </div>
+
+<sub>Cards are generated and refreshed automatically by GitHub Actions.</sub>
 
 ---
 
