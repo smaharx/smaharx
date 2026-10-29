@@ -8,6 +8,7 @@
     <a href="https://www.linkedin.com/in/smaharx/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
   </p>
   <p>
+    <img src="https://img.shields.io/github/followers/smaharx?label=Followers&style=flat-square&color=0891B2" alt="GitHub followers" />
     <img src="https://img.shields.io/badge/Focus-Applied%20AI%20%26%20ML-7C3AED?style=flat-square" alt="Applied AI and machine learning focus" />
   </p>
 </div>
@@ -165,19 +166,6 @@
   <a href="https://github.com/smaharx?tab=repositories"><img src="https://img.shields.io/badge/Explore%20all%20repositories-View%20on%20GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" /></a>
 </div>
 
----
-
-## GitHub Activity
-
-<div align="center">
-
-
-  <img src="https://raw.githubusercontent.com/smaharx/smaharx/main/assets/contributions.dark.svg" alt="GitHub contribution activity" width="95%" />
-
-</div>
-
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:0891B2&height=110&section=footer" width="100%" alt="Footer" />
