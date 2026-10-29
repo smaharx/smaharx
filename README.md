@@ -176,7 +176,6 @@
 
 </div>
 
-<sub>Cards are generated and refreshed automatically by GitHub Actions.</sub>
 
 ---
 
