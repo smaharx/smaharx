@@ -3,12 +3,19 @@
 name: Update profile cards
 
 on:
+  # Refresh stats and language cards four times daily.
+  # GitHub Actions schedule times are in UTC.
   schedule:
-    - cron: "17 2 * * *"
+    - cron: "17 */6 * * *"
+
+  # Allow a manual refresh from the Actions tab.
   workflow_dispatch:
+
+  # Also refresh when you push changes to this profile repository.
+  # The card action's generated commit uses [skip ci] to avoid loops.
   push:
-    paths:
-      - ".github/workflows/profile-cards.yml"
+    branches:
+      - main
 
 permissions:
   contents: write
