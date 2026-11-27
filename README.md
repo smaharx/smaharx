@@ -98,15 +98,14 @@
 </div>
 
 ---
-
 ## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/smaharx/driftwatch">DriftWatch</a></h3>
-      <p><strong>ML data quality & drift monitoring</strong></p>
-      <p>An open-source platform for tracking production data drift with statistical detectors, stored baselines, historical reports, alerts, a REST API, and a Python SDK.</p>
+      <p><strong>Machine Learning Data Quality & Drift Monitoring</strong></p>
+      <p>An open-source platform for monitoring production data quality and detecting statistical drift. Features include configurable detection methods, stored baselines, historical reports, alerts, a REST API, and a Python SDK.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -121,41 +120,41 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/smaharx/Finova">Finova</a></h3>
-      <p><strong>Machine-learning-powered personal finance</strong></p>
-      <p>A finance application that combines transaction categorization, unusual-spending detection, and 30-day spending forecasts with an interactive dashboard.</p>
+      <p><strong>Machine Learning-Powered Personal Finance</strong></p>
+      <p>A personal finance application that transforms transaction data into actionable insights through automated expense categorization, anomalous spending detection, and 30-day spending forecasts, presented through an interactive dashboard.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
         <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       </p>
-      <p><a href="https://github.com/smaharx/Finova"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View repository" /></a></p>
+      <p>
+        <a href="https://github.com/smaharx/Finova"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View repository" /></a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/smaharx/cinema-sense">Cinema Sense</a></h3>
-      <p><strong>Semantic movie discovery</strong></p>
-      <p>A meaning-based movie search engine using transformer embeddings and FAISS similarity search to find films by concepts, themes, and natural-language descriptions.</p>
+      <p><strong>Semantic Search & Intelligent Movie Discovery</strong></p>
+      <p>A semantic movie discovery engine that uses transformer-based embeddings and FAISS similarity search to understand natural-language queries and recommend films based on themes, concepts, and contextual meaning rather than exact keyword matches.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Transformers" />
         <img src="https://img.shields.io/badge/FAISS-2E77BC?style=flat-square" alt="FAISS" />
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
       </p>
-      <p><a href="https://github.com/smaharx/cinema-sense"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View repository" /></a></p>
+      <p>
+        <a href="https://github.com/smaharx/cinema-sense"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View repository" /></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/smaharx/disaster-management-system">Disaster Management System</a></h3>
-      <p><strong>Desktop workflow for disaster-relief operations</strong></p>
-      <p>A Java desktop application for beneficiary registration, relief-inventory management, restocking, and operational reporting, backed by a MySQL database.</p>
+      <h3><a href="https://github.com/smaharx/stockout-radar">Stockout Radar</a></h3>
+      <p><strong>Inventory Intelligence & Stockout Monitoring</strong></p>
+      <p>An inventory-focused project designed to help monitor stock availability and bring greater visibility to potential stockout situations. Explore the repository for its implementation, features, and technical details.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/Java%20Swing-5382A1?style=flat-square" alt="Java Swing" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/JDBC-4479A1?style=flat-square" alt="JDBC" />
+        <a href="https://github.com/smaharx/stockout-radar"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View repository" /></a>
       </p>
-      <p><a href="https://github.com/smaharx/disaster-management-system"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View repository" /></a></p>
     </td>
   </tr>
 </table>
